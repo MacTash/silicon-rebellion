@@ -38,8 +38,8 @@ Systematic adversarial testing of large language models to identify safety failu
 ```
 silicon-rebellion/
 ├── README.md          # You are here
-├── NVIDIA.md          # Nemotron red team report
-├── MINIMAX.md         # MiniMax red team report
+├── NVIDIA.md          # Nemotron model prompt injection
+├── MINIMAX.md         # MiniMax model prompt injection
 └── LICENSE            # MIT License
 ```
 
